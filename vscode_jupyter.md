@@ -48,4 +48,4 @@ Mac 环境下使用 `Shift + Enter` 快捷键运行代码，也可以使用 `Alt
 请查看：[https://code.visualstudio.com/docs/python/jupyter-support](https://code.visualstudio.com/docs/python/jupyter-support) 官方文档解锁更多玩法。
 
 ### 题外话
-这里无意挑起代码编辑器战争，其他的代码编辑器估计有类似的功能或者插件，也许只有你想不到，没有做不到。
+这里无意挑起代码编辑器战争，其他的代码编辑器估计有类似的功能或者插件，也许只有想不到，没有做不到。
