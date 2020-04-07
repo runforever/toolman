@@ -1,5 +1,8 @@
 # 在 VSCode 中使用 Jupyter Notebook
 
+*作者：奔跑的青椒*<br />
+*出处：知识星球【涛哥聊 Python】*
+
 > Jupyter Notebook 是一个开源的Web应用程序，允许用户创建和共享包含代码、方程式、可视化和文本的文档，它是数据科学和机器学习领域最常用的工具之一。
 
 > VSCode 全称 Visual Studio Code，是微软出的一款轻量级代码编辑器，免费、开源而且功能强大。
